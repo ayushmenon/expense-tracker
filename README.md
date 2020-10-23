@@ -7,4 +7,4 @@ This project was built using React and enables users to track their expenses and
 - Connect a backend
 - Add authentication/authorization
 
-The project is deployed here: .
+The project is deployed here: https://expense-tracker-2b8cc.web.app.
